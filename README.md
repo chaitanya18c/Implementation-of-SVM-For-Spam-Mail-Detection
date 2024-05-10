@@ -56,7 +56,9 @@ accuracy
 
 ## Output:
 ![327130452-666a2fbe-b1e9-4389-bf89-a54ee4fe1de3](https://github.com/chaitanya18c/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119392724/bc58452d-1241-4138-87bd-725f18161e9b)
+
 ![327130462-72448a19-ec6f-425c-8f14-34d4125032e1](https://github.com/chaitanya18c/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119392724/13a3e6da-2c61-4d8f-b095-f7ba0a2a7c97)
+
 ![327130481-5894ab20-ef10-45ee-91f1-f099cb3733da](https://github.com/chaitanya18c/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119392724/24656bb6-b943-4bc1-a50d-b9f858217719)
 
 
